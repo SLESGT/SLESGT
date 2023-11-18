@@ -1,4 +1,3 @@
-|[logo](https://github.com/SLESGT/Ashan-Hannadige/blob/main/github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Ashan Hannadige</h1>
 <h3 align="center">A passionate Cloud Engineer and Developer in Sri Lanka</h3>
 
